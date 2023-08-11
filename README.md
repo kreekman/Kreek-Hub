@@ -13,5 +13,4 @@ Then auto-execute this script, and you will be met with a toggle-able UI ready t
 Use these commands to enable/disable the UI.
 
 __In-game chat:__ /e kl
-
 __Executor:__ _G.kl()
