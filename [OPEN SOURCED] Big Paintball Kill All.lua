@@ -194,18 +194,6 @@ if game.PlaceId == 3527629287 then
             end
         end
     end)
-
-    while task.wait(1) do
-        if getgenv().bpfarm == true then
-            if not spawned() then
-                -- if IsElectron then
-                --     Keypress(tonumber("0x20"))
-                --     wait(delta)
-                --     Keyrelease(tonumber("0x20"))
-                -- end
-            end
-        end
-    end
 else
     warn("Wrong game!!!")
 end
